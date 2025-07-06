@@ -1,0 +1,26 @@
+# --- Python ---
+backend/__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Environment files ---
+.env
+.env.*
+
+# --- Editor Configs ---
+.vscode/
+.idea/
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
